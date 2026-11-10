@@ -219,4 +219,4 @@ Nexuiz is available as a full free version, offering all features and updates in
 Don't miss out on the excitement! Download Nexuiz today and immerse yourself in fast-paced FPS action!
 
 ---
-**Last updated:** 2026-11-09 18:30:32 UTC
+**Last updated:** 2026-11-10 01:54:42 UTC
